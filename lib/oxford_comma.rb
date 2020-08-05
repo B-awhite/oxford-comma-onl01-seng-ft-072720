@@ -7,6 +7,5 @@ def oxford_comma(array)
 end  
 
 def oxford_comma(array)
-  my_array= []
-  array.each {|""| my_array << array 
+  
 end  
